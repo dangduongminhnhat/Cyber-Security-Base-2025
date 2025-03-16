@@ -1,0 +1,5 @@
+course = "mooc-securing-software-25"
+
+[exercises."part1-01.portscanner"]
+id = 282612
+checksum = "bbdac082bd5307d8f5606d7a5eaeac21"
