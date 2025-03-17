@@ -7,3 +7,7 @@ checksum = "bbdac082bd5307d8f5606d7a5eaeac21"
 [exercises."part1-02.helloweb"]
 id = 282613
 checksum = "ba619326332221832008e95157b30f20"
+
+[exercises."part1-03.calculator"]
+id = 282614
+checksum = "b0606bd7216e65731bb7ae98cc10c67a"
