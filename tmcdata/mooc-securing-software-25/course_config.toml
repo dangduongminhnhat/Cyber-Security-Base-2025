@@ -11,3 +11,15 @@ checksum = "ba619326332221832008e95157b30f20"
 [exercises."part1-03.calculator"]
 id = 282614
 checksum = "b0606bd7216e65731bb7ae98cc10c67a"
+
+[exercises."part1-04.templates"]
+id = 282617
+checksum = "411705691da6e1fe6700da529ab47268"
+
+[exercises."part1-05.hellolist"]
+id = 282616
+checksum = "3af56b4ed90bdf5cddd2c8437bab76d5"
+
+[exercises."part1-06.notebook"]
+id = 282615
+checksum = "7bfbb6af44bd05edd07fce68a5071c0d"
