@@ -35,3 +35,7 @@ checksum = "2fc933eddffed1ca0353ff0c3a9a6d80"
 [exercises."part2-09.helloinsert"]
 id = 282621
 checksum = "c87e2e2e14d18e92c2048a3aee40f7db"
+
+[exercises."part2-10.hellowebwithdatabase"]
+id = 282623
+checksum = "d9b5c11e750713182c5ba306e3daf07d"
