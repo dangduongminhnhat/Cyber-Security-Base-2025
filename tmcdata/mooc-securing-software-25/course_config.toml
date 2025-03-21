@@ -39,3 +39,7 @@ checksum = "c87e2e2e14d18e92c2048a3aee40f7db"
 [exercises."part2-10.hellowebwithdatabase"]
 id = 282623
 checksum = "d9b5c11e750713182c5ba306e3daf07d"
+
+[exercises."part2-11.banktransfer"]
+id = 282622
+checksum = "0719c8e8fba1d5635dd7e21eafec59bf"
