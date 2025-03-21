@@ -43,3 +43,7 @@ checksum = "d9b5c11e750713182c5ba306e3daf07d"
 [exercises."part2-11.banktransfer"]
 id = 282622
 checksum = "0719c8e8fba1d5635dd7e21eafec59bf"
+
+[exercises."part2-12.simplebanking"]
+id = 282624
+checksum = "f56a12a82caaae090d70d6c4d45b7410"
