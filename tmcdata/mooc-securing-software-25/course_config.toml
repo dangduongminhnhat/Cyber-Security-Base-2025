@@ -27,3 +27,7 @@ checksum = "7bfbb6af44bd05edd07fce68a5071c0d"
 [exercises."part2-07.tasks"]
 id = 282626
 checksum = "77dc03a6406a9de2826a13b292402626"
+
+[exercises."part2-08.hellodatabase"]
+id = 282620
+checksum = "2fc933eddffed1ca0353ff0c3a9a6d80"
