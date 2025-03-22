@@ -47,3 +47,7 @@ checksum = "0719c8e8fba1d5635dd7e21eafec59bf"
 [exercises."part2-12.simplebanking"]
 id = 282624
 checksum = "f56a12a82caaae090d70d6c4d45b7410"
+
+[exercises."part2-13.sessionhijack"]
+id = 282625
+checksum = "a699d272a1fdfade3da71f1673aaa3ac"
